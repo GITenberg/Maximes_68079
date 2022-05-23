@@ -1,0 +1,31 @@
+_repo: Maximes_68079
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Scheurleer, Daniel François
+    gutenberg_agent_id: '54592'
+    url: http://www.gutenberg.org/2009/agents/54592
+creator:
+  author:
+    agent_name: Rochefoucauld, François de la
+    gutenberg_agent_id: '54591'
+    url: http://www.gutenberg.org/2009/agents/54591
+description: ''
+gutenberg_issued: '2022-05-14'
+identifiers:
+  gutenberg: '68079'
+language: nl
+pgterms:marc904: https://www.delpher.nl/nl/boeken/view?coll=boeken&identifier=MMKB02A:000033080:00008
+pgterms:marc905: 20200607003916delarochef
+pgterms:marc906: '1922'
+pgterms:marc907: nl
+production_note: Wouter Franssen and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (prepared from scans provided by the Koninklijke Bibliotheek, The Hague, at https://www.delpher.nl)
+publication_note: Netherlands :Martinus Nijhoff,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Maximes
+url: http://www.gutenberg.org/ebooks/68079
