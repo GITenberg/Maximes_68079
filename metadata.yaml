@@ -5,12 +5,17 @@ contributor:
     agent_name: Scheurleer, Daniel François
     gutenberg_agent_id: '54592'
     url: http://www.gutenberg.org/2009/agents/54592
+covers:
+- cover_type: archival
+  image_path: 68079-h/images/cover.png
 creator:
   author:
     agent_name: Rochefoucauld, François de la
     gutenberg_agent_id: '54591'
     url: http://www.gutenberg.org/2009/agents/54591
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68079#Maximes
 gutenberg_issued: '2022-05-14'
 identifiers:
   gutenberg: '68079'
